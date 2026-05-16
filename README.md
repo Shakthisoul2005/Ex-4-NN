@@ -223,12 +223,12 @@ m1.fit(training_a, training_b.values.ravel())
 predicted_values = m1.predict(testing_a)
 print(confusion_matrix(testing_b,predicted_values))
 print(classification_report(testing_b,predicted_values))
-```
 
-Insert your code here
 
-<H3>Output:</H3>
-<img width="1155" height="1089" alt="Screenshot 2026-05-16 114055" src="https://github.com/user-attachments/assets/60745992-3482-4a1d-8d74-0746549c27a8" />
+**OUTPUT:**
+<img width="1155" height="1089" alt="Screenshot 2026-05-16 114055" src="https://github.com/user-attachments/assets/6790cc93-573d-4cf4-bd25-c5539e4bdab6" />
+
+
 
 
 Show your results here
